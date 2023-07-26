@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+    padding-right:18%;
+    padding-top: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(231, 89, 89);
+    text-align: right;
+    text-decoration-color: rgb(246, 210, 196);
+    text-decoration-line: overline;
+}
+
+p {
+    text-align: right;
+    color: rgb(69, 68, 68)
+}
